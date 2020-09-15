@@ -1,4 +1,8 @@
 {
 "Make": "Chevrolet", 
-"Model": "Silverado"
+"Model": "Silverado" 
+"Options": [
+    "Air": "yes",
+    "Power Windows": "No
+]
 }
