@@ -2,4 +2,7 @@
     "Make": "Chevrolet", 
     "Model": "Tahoe", 
     "Color": "Silver"
+    "Options": [
+        {"Air": "Yes"}
+    ]
 }
