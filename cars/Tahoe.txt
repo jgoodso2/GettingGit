@@ -1,12 +1,5 @@
 {
-<<<<<<< HEAD
-    Silver
-Air Conditioning
-Power Windows
-Power brakes
-=======
     "Make": "Chevrolet", 
     "Model": "Tahoe", 
     "Color": "Silver"
->>>>>>> fdc4415123aaad609a3a2321473ad7d9808acca4
 }
