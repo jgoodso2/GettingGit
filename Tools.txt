@@ -1,5 +1,4 @@
 Power Tools
 Table Saw
-Chop Saw
-Tile Cutter
-
+Miter Saw
+Tile Saw
