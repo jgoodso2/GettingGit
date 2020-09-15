@@ -1,7 +1,12 @@
-Silver
+{
+    Silver
 Air Conditioning
 Power Windows
 <<<<<<< HEAD
 =======
 Power brakes
+<<<<<<< HEAD
 >>>>>>> bd99611b7af8d366060167d8b1fbcdd09c97493d
+=======
+}
+>>>>>>> d7fc2b34d6f8671497a60f3ae7c5f500342f0ce2
