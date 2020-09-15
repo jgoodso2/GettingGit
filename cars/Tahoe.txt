@@ -1,4 +1,6 @@
-Silver
+{
+    Silver
 Air Conditioning
 Power Windows
 Power brakes
+}
