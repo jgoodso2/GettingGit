@@ -3,6 +3,7 @@
 "Model": "Silverado" 
 "Options": [
     "Air": "yes",
-    "Power Windows": "No
+    "Power Windows": "No",
+    "Towing Package": "Yes"
 ]
 }
