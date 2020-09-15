@@ -1,6 +1,5 @@
 {
-    Silver
-Air Conditioning
-Power Windows
-Power brakes
+    "Make": "Chevrolet", 
+    "Model": "Tahoe", 
+    "Color": "Silver"
 }
